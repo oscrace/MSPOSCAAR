@@ -706,3 +706,51 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Mar2025 19:48:26.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JERAL25[/127.132.89.41:44551] logged in with entity id 20 at (-18.5, 76.0, -56.5)
 [10Mar2025 19:48:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 joined the game
 [10Mar2025 19:48:26.546] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0xc29d51b569ac7c8a
+[10Mar2025 19:50:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Stone Age]
+[10Mar2025 19:50:36.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:50:36.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 19:50:44.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Getting an Upgrade]
+[10Mar2025 19:53:29.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Monster Hunter]
+[10Mar2025 19:55:36.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 19:55:36.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 19:55:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Acquire Hardware]
+[10Mar2025 19:56:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Isn't It Iron Pick]
+[10Mar2025 20:00:36.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 20:00:36.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 20:01:06.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Not Today, Thank You]
+[10Mar2025 20:02:57.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JERAL25 lost connection: Timed out
+[10Mar2025 20:02:57.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 left the game
+[10Mar2025 20:02:57.650] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Mar2025 20:03:21.161] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with modlist [forge, minecraft]
+[10Mar2025 20:03:21.289] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received client connection with channels [forge:channel_registration, forge:handshake, forge:login]
+[10Mar2025 20:03:21.289] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:handshake' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Mar2025 20:03:21.289] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:login' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Mar2025 20:03:21.289] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:channel_registration' : Version test of 'PRESENT 0' from client : ACCEPTED
+[10Mar2025 20:03:21.289] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[10Mar2025 20:03:21.420] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 0 from client
+[10Mar2025 20:03:21.550] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 1 from client
+[10Mar2025 20:03:21.678] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 2 from client
+[10Mar2025 20:03:21.937] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
+[10Mar2025 20:03:22.065] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
+[10Mar2025 20:03:22.193] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[10Mar2025 20:03:22.451] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[10Mar2025 20:03:22.579] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[10Mar2025 20:03:22.705] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[10Mar2025 20:03:22.832] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[10Mar2025 20:03:22.971] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[10Mar2025 20:03:23.110] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[10Mar2025 20:03:23.365] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[10Mar2025 20:03:23.492] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[10Mar2025 20:03:23.619] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[10Mar2025 20:03:23.746] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[10Mar2025 20:03:23.873] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[10Mar2025 20:03:24.000] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[10Mar2025 20:03:24.125] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[10Mar2025 20:03:24.965] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[10Mar2025 20:03:26.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JERAL25[/127.132.89.41:34361] logged in with entity id 3311 at (-56.31866896372306, -27.0, -115.44185815662536)
+[10Mar2025 20:03:26.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 joined the game
+[10Mar2025 20:04:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Suit Up]
+[10Mar2025 20:05:36.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 20:05:36.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 20:06:25.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 was doomed to fall
+[10Mar2025 20:08:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 fell from a high place

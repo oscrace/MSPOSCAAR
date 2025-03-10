@@ -58,3 +58,17 @@
 [10Mar2025 19:40:36.596] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [10Mar2025 19:48:26.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JERAL25[/127.132.89.41:44551] logged in with entity id 20 at (-18.5, 76.0, -56.5)
 [10Mar2025 19:48:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 joined the game
+[10Mar2025 19:50:24.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Stone Age]
+[10Mar2025 19:50:44.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Getting an Upgrade]
+[10Mar2025 19:53:29.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Monster Hunter]
+[10Mar2025 19:55:39.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Acquire Hardware]
+[10Mar2025 19:56:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Isn't It Iron Pick]
+[10Mar2025 20:01:06.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Not Today, Thank You]
+[10Mar2025 20:02:57.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JERAL25 lost connection: Timed out
+[10Mar2025 20:02:57.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 left the game
+[10Mar2025 20:02:57.650] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Mar2025 20:03:26.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JERAL25[/127.132.89.41:34361] logged in with entity id 3311 at (-56.31866896372306, -27.0, -115.44185815662536)
+[10Mar2025 20:03:26.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 joined the game
+[10Mar2025 20:04:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Suit Up]
+[10Mar2025 20:06:25.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 was doomed to fall
+[10Mar2025 20:08:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 fell from a high place
