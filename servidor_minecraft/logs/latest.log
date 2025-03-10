@@ -88,3 +88,11 @@
 [10Mar2025 20:37:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Ice Bucket Challenge]
 [10Mar2025 20:40:40.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Cover Me with Diamonds]
 [10Mar2025 20:49:20.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Take Aim]
+[10Mar2025 21:31:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Sweet Dreams]
+[10Mar2025 21:33:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [A Seedy Place]
+[10Mar2025 21:35:39.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [The Parrots and the Bats]
+[10Mar2025 21:40:19.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JERAL25 was kicked for floating too long!
+[10Mar2025 21:40:19.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JERAL25 lost connection: Flying is not enabled on this server
+[10Mar2025 21:40:19.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 left the game
+[10Mar2025 21:40:54.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JERAL25[/127.132.89.41:34455] logged in with entity id 29671 at (663.6298448645449, 68.00133597911214, 952.5280744155391)
+[10Mar2025 21:40:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 joined the game
