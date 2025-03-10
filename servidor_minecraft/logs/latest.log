@@ -100,3 +100,5 @@
 [10Mar2025 22:03:22.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
 [10Mar2025 22:09:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Hot Stuff]
 [10Mar2025 22:16:01.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 was slain by Zombified Piglin
+[10Mar2025 22:30:19.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JERAL25 lost connection: Disconnected
+[10Mar2025 22:30:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 left the game
