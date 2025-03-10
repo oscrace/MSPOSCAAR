@@ -884,3 +884,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Mar2025 22:09:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Hot Stuff]
 [10Mar2025 22:10:39.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 22:10:39.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 22:15:39.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 22:15:39.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 22:16:01.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 was slain by Zombified Piglin
+[10Mar2025 22:20:39.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 22:20:39.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
