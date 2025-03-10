@@ -72,3 +72,15 @@
 [10Mar2025 20:04:26.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Suit Up]
 [10Mar2025 20:06:25.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 was doomed to fall
 [10Mar2025 20:08:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 fell from a high place
+[10Mar2025 20:10:33.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 was shot by Skeleton
+[10Mar2025 20:12:03.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 tried to swim in lava to escape Skeleton
+[10Mar2025 20:12:12.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JERAL25 lost connection: Disconnected
+[10Mar2025 20:12:12.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 left the game
+[10Mar2025 20:14:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Mar2025 20:14:53.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mary-specifics.gl.joinmc.linkxxxxxxx<--[HERE]
+[10Mar2025 20:14:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Mar2025 20:14:56.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: x<--[HERE]
+[10Mar2025 20:15:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Mar2025 20:15:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 2<--[HERE]
+[10Mar2025 20:15:18.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JERAL25[/127.132.89.41:51211] logged in with entity id 6692 at (-25.5, 79.0, -38.5)
+[10Mar2025 20:15:18.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 joined the game
