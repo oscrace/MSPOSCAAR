@@ -96,3 +96,6 @@
 [10Mar2025 21:40:19.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 left the game
 [10Mar2025 21:40:54.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JERAL25[/127.132.89.41:34455] logged in with entity id 29671 at (663.6298448645449, 68.00133597911214, 952.5280744155391)
 [10Mar2025 21:40:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 joined the game
+[10Mar2025 22:03:21.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [We Need to Go Deeper]
+[10Mar2025 22:03:22.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[10Mar2025 22:09:47.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JERAL25 has made the advancement [Hot Stuff]
