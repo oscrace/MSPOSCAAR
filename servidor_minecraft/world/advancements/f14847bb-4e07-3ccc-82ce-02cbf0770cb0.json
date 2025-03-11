@@ -17,6 +17,7 @@
       "minecraft:lush_caves": "2025-03-11 01:44:31 +0000",
       "minecraft:windswept_gravelly_hills": "2025-03-11 01:54:01 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-11 01:37:09 +0000",
+      "minecraft:dripstone_caves": "2025-03-11 02:29:08 +0000",
       "minecraft:plains": "2025-03-11 01:51:48 +0000"
     },
     "done": false
@@ -66,6 +67,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-03-11 01:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-11 02:23:24 +0000"
     },
     "done": true
   },
@@ -165,6 +172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-11 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-11 02:19:11 +0000"
@@ -216,6 +229,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-03-11 01:58:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-03-11 02:23:24 +0000"
     },
     "done": true
   },
@@ -327,6 +346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-11 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-11 01:41:22 +0000"
@@ -342,6 +367,12 @@
   "minecraft:recipes/decorations/light_gray_candle": {
     "criteria": {
       "has_light_gray_dye": "2025-03-11 01:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-03-11 02:23:24 +0000"
     },
     "done": true
   },
@@ -390,6 +421,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-03-11 02:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-11 02:23:24 +0000"
     },
     "done": true
   },
@@ -450,6 +487,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-03-11 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-03-11 02:23:24 +0000"
     },
     "done": true
   },
@@ -525,6 +568,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-03-11 02:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-03-11 02:23:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-03-11 01:55:56 +0000"
@@ -576,6 +631,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-11 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-03-11 02:23:24 +0000"
     },
     "done": true
   },
@@ -674,6 +735,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-11 01:41:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-03-11 02:23:24 +0000"
     },
     "done": true
   },
